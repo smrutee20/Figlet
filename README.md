@@ -19,7 +19,7 @@ initially we get these 3 folders:<br>
 - package.json: <br>
 
 # output
-![ diagram]((https://github.com/smrutee20/Figlet/blob/main/smrutee_figlet.png))    
+![ diagram](https://github.com/smrutee20/Figlet/blob/main/smrutee_figlet.png)    
 
 
 
