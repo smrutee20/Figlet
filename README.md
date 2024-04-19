@@ -10,7 +10,7 @@ This project aims to fully implement the FIGfont spec in JavaScript. It works in
 ```
  ls
 ```
-node_modules  package-lock.json  package.json
+## node_modules  package-lock.json  package.json
 
 initially we get these 3 folders:<br>
 
