@@ -5,6 +5,9 @@ This project aims to fully implement the FIGfont spec in JavaScript. It works in
 
 ```bash
  npm install figlet
+```
+
+```
  ls
 ```
 node_modules  package-lock.json  package.json
