@@ -14,10 +14,6 @@ package-lock.json: It records exact version of every installed dependency, inclu
 package.json: <br>
 
 # output
-  _   _      _ _        __        __         _     _ _ _<br>
- | | | | ___| | | ___   \ \      / /__  _ __| | __| | | |<br>
- | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | | |<br>
- |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|_|<br>
- |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_|_)<br>
+
 
 
