@@ -1,11 +1,11 @@
 # Figlet
 This project aims to fully implement the FIGfont spec in JavaScript. It works in the browser and with Node.js.
 
-#Set-up
+# Set-up
 
--npm install figlet
+- npm install figlet
 
--ls
+- ls
 node_modules  package-lock.json  package.json
 
 initially we get these 3 folders:
