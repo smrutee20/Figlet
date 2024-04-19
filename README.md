@@ -3,9 +3,10 @@ This project aims to fully implement the FIGfont spec in JavaScript. It works in
 
 # Set-up
 
-- npm install figlet
-
-- ls
+```bash
+ npm install figlet
+ ls
+```
 node_modules  package-lock.json  package.json
 
 initially we get these 3 folders:<br>
